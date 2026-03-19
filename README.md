@@ -20,6 +20,9 @@ This project focuses on improving classification accuracy of hyperspectral image
 - Machine Learning
 - Jupyter Notebook
 
+- ## 📊 Result
+The model improves classification accuracy using semi-supervised learning with limited labeled data.
+
 ## ⚠️ Note
 If the notebook preview does not load on GitHub, please use the Google Colab link above.
 
